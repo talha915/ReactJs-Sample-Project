@@ -1,0 +1,26 @@
+.top-card {
+    padding: 10px 0 10px 0;
+    background-color:#00aeff !important;
+}
+
+.inner-cards {
+    background-color: #00aeff  !important;
+    background: #00aeff
+    !important;
+}
+
+.cards-set {
+    padding: 25px 20px 10px 20px;
+}
+
+.description {
+    padding: 0px 0 2px 60px;
+}
+
+.custom-img {
+    float: right;
+}
+
+.custom-description {
+    padding-left: 50px;
+}

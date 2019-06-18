@@ -1,0 +1,25 @@
+.top-card {
+    padding: 10px 0 10px 0;
+    background-color: #00aeff
+    !important;
+}
+
+.btn-style {
+    background-color:#00aeff
+    !important;
+}
+
+.second-card {
+    padding: 8px 10px 8px 10px;
+    
+}
+
+.selected-button {
+    background-color: transparent;
+    color: #00aeff
+    ;
+    padding: 8px 50px 9px 10px;
+    border-color:#00aeff
+    ;
+    margin-top: 5px;
+}

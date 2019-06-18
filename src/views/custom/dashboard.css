@@ -1,0 +1,22 @@
+.container1{
+
+
+background-color: aqua;
+
+}
+
+.pie-container{
+ width: 400px;
+height:300px ;
+float: left;
+
+    
+}
+.alert-list{
+width: 600px;
+height: 300px;
+float: right;
+
+
+
+}
